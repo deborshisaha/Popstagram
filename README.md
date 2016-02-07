@@ -38,8 +38,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/deborshisaha/Popstagram/blob/master/Popstagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 I wanted to display all the comments against a post. I was not able to find any documentation to page comment results.
