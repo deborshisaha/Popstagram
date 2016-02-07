@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Popstagram</string>
+    <string name="comments">COMMENTS</string>
+    <string name="video_player">Video</string>
+</resources>

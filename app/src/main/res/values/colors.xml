@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navigation_bar_color">#3f729b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_blue">#FF01579b</color>
+    <color name="light_blue">#FF4999DA</color>
+    <color name="light_gray">#CACACA</color>
+    <color name="very_dark_gray">#3D3D3D</color>
+
+</resources>
